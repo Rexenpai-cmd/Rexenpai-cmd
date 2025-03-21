@@ -4,6 +4,8 @@ I'm Rex D. Espina, 21 years old from Toledo City, Cebu.
 
 I’m currently learning📚 MEAN stack and Git
 
+Technologies I use:
+  ![My Logo](html-logo.png)
 
 <!--
 **Rexenpai-cmd/Rexenpai-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
