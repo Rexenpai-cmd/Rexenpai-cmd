@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="830" height="400">
+
+  <!-- Dark background -->
+  <rect width="830" height="400" fill="#0d1117"/>
+
+  <!-- Grid pattern -->
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="rgba(48,54,61,0.9)" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="830" height="400" fill="url(#grid)"/>
+
+  <!-- Typing SVG overlaid on top -->
+  <image href="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=28&pause=1800&color=E6EDF3&background=0D111700&vCenter=true&width=830&height=400&lines=Hi%2C+I%27m+Rex+Espina;I%27m+a+Software+Developer" x="0" y="0" width="830" height="400"/>
+
+</svg>
