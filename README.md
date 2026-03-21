@@ -1,1 +1,1 @@
-![](./grid-typewriter.svg)
+![](./new-grid.svg)
