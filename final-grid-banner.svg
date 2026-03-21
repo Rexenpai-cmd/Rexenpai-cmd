@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="830" height="400" viewBox="0 0 830 400">
 
-  <rect width="830" height="400" fill="#0d1321"/>
+  <rect width="830" height="400" fill="#0C0F14"/>
 
   <!-- Grid lines vertical -->
   <line x1="36"  y1="0" x2="36"  y2="400" stroke="#30363d" stroke-width="0.5"/>
