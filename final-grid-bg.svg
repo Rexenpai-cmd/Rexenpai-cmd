@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="400" viewBox="0 0 830 400">
+
+  <rect width="830" height="400" fill="#0C0F14"/>
+
+  <!-- Grid lines vertical -->
+  <line x1="36"  y1="0" x2="36"  y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="72"  y1="0" x2="72"  y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="108" y1="0" x2="108" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="144" y1="0" x2="144" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="180" y1="0" x2="180" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="216" y1="0" x2="216" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="252" y1="0" x2="252" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="288" y1="0" x2="288" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="324" y1="0" x2="324" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="360" y1="0" x2="360" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="396" y1="0" x2="396" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="432" y1="0" x2="432" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="468" y1="0" x2="468" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="504" y1="0" x2="504" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="540" y1="0" x2="540" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="576" y1="0" x2="576" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="612" y1="0" x2="612" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="648" y1="0" x2="648" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="684" y1="0" x2="684" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="720" y1="0" x2="720" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="756" y1="0" x2="756" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="792" y1="0" x2="792" y2="400" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="0" y1="36"  x2="830" y2="36"  stroke="#30363d" stroke-width="0.5"/>
+  <line x1="0" y1="72"  x2="830" y2="72"  stroke="#30363d" stroke-width="0.5"/>
+  <line x1="0" y1="108" x2="830" y2="108" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="0" y1="144" x2="830" y2="144" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="0" y1="180" x2="830" y2="180" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="0" y1="216" x2="830" y2="216" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="0" y1="252" x2="830" y2="252" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="0" y1="288" x2="830" y2="288" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="0" y1="324" x2="830" y2="324" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="0" y1="360" x2="830" y2="360" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="0" y1="396" x2="830" y2="396" stroke="#30363d" stroke-width="0.5"/>
+
+  <defs>
+    <!-- rainbow gradient for the title -->
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#ff6b6b"/>
+      <stop offset="25%"  stop-color="#ffd93d"/>
+      <stop offset="50%"  stop-color="#6bcb77"/>
+      <stop offset="75%"  stop-color="#4d96ff"/>
+      <stop offset="100%" stop-color="#ff6bff"/>
+    </linearGradient>
+    <!-- blue glow for line 2 -->
+    <linearGradient id="blueglow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#58a6ff"/>
+      <stop offset="50%"  stop-color="#a0d8ff"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ✦ sparkle top left -->
+  <text x="90" y="90" font-size="18" fill="#ffd93d" opacity="0.7">✦
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </text>
+  <!-- ✦ sparkle top right -->
+  <text x="700" y="70" font-size="14" fill="#ff6bff" opacity="0.7">✦
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+  <!-- ✦ sparkle bottom left -->
+  <text x="110" y="330" font-size="12" fill="#6bcb77" opacity="0.7">✦
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.8s" repeatCount="indefinite"/>
+  </text>
+  <!-- ✦ sparkle bottom right -->
+  <text x="690" y="340" font-size="16" fill="#4d96ff" opacity="0.7">✦
+    <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- extra stars left side -->
+  <text x="55" y="200" font-size="12" fill="#ffd93d" opacity="0.7">✦
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/>
+  </text>
+  <text x="80" y="310" font-size="10" fill="#ff6bff" opacity="0.7">✦
+    <animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="35" y="130" font-size="14" fill="#6bcb77" opacity="0.7">✦
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- extra stars right side -->
+  <text x="740" y="180" font-size="12" fill="#ffd93d" opacity="0.7">✦
+    <animate attributeName="opacity" values="1;0.4;1" dur="3.1s" repeatCount="indefinite"/>
+  </text>
+  <text x="765" y="280" font-size="10" fill="#6bcb77" opacity="0.7">✦
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/>
+  </text>
+  <text x="720" y="350" font-size="14" fill="#ff6bff" opacity="0.7">✦
+    <animate attributeName="opacity" values="1;0.5;1" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- LINE 1: Hi, my name is Rex Espina — rainbow + bouncy -->
+  <text text-anchor="middle" x="415" y="205"
+    font-family="'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive"
+    font-size="40" font-weight="bold"
+    fill="#e6edf3">Hi, my name is Rex Espina!
+    <animate attributeName="opacity"
+      values="0;1;1;0;0;0;0"
+      keyTimes="0;0.10;0.32;0.40;0.50;0.92;1"
+      dur="10s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- LINE 2 group -->
+  <g>
+    <animate attributeName="opacity"
+      values="0;0;0;0;1;1;0"
+      keyTimes="0;0.10;0.32;0.50;0.58;0.92;1"
+      dur="10s" repeatCount="indefinite"/>
+
+    <!-- "I'm an" white comic -->
+    <text text-anchor="middle" x="415" y="172"
+      font-family="'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive"
+      font-size="30" font-weight="bold"
+      fill="#e6edf3">I'm an</text>
+
+    <!-- Hand-drawn highlighter shape -->
+    <path d="M118,192 C160,186 280,184 415,185 C550,186 665,184 712,190 C716,198 717,210 715,226 C717,234 713,240 709,238 C665,243 548,245 415,244 C280,245 160,243 120,238 C115,230 114,218 116,208 Z"
+      fill="#58a6ff" opacity="0.92"/>
+    <!-- "Associate Software Engineer" dark text on blue highlight -->
+    <text text-anchor="middle" x="415" y="224"
+      font-family="'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive"
+      font-size="40" font-weight="900"
+      fill="#0C0F14">Associate Software Engineer</text>
+
+    <!-- wavy underline dots -->  </g>
+
+</svg>
