@@ -1,3 +1,1 @@
-<div>
-  <img src="./grid-background.png">
-</div>
+![grid background](./grid.svg)
