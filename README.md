@@ -1,1 +1,1 @@
-![](./readme-banner.svg)
+![](./final-grid-bg.svg)
